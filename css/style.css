@@ -7,7 +7,7 @@
 
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -1263,6 +1263,10 @@ input[type="text"] {
   font-size: 24px;
   color: #CA82F8; }
 
+    .colorlib-social-icons path {
+      font-size: 24px;
+      color: #CA82F8;
+    }
 #footer {
   padding: 8em 0;
   display: block;
@@ -1313,3 +1317,5 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0; }
+
+
